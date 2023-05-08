@@ -3,6 +3,8 @@ let pic = 0;
 let imgObj = new Array(12);
 let totalImgs = new Array(12);
 
+let dog = "woof";
+
 
 //let img_h = height/6;
 let img_w;
